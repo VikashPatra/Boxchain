@@ -1,4 +1,4 @@
-package noobchain;
+package boxchain;
 
 public class TransactionInput {
 	public String transactionOutputId; //Reference to TransactionOutputs -> transactionId

@@ -1,4 +1,4 @@
-package noobchain;
+package boxchain;
 import java.security.*;
 import java.util.ArrayList;
 
