@@ -1,4 +1,4 @@
-# NoobChain
+# Boxchain
 A Simple Java Blockchain project.
 A simple Java blockchain with transactions. ( Still missing networking )
 
